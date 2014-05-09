@@ -1,0 +1,25 @@
+
+
+body{
+	background-color:#EEEEEE;
+	
+}
+div.menu_main{
+	margin: 10px;
+}
+div.bodyDiv_main{
+    margin: 10px;
+    padding: 10px;	
+}
+
+div.jumbotron{
+	background-color: #FFFFFF;
+}
+
+div.menu_main{
+	height:400px;	
+}
+
+div.questionList_head{
+	overflow: auto;
+}
